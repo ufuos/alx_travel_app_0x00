@@ -29,3 +29,24 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+# alx_travel_app_0x00
+
+## 📌 Project Overview
+
+This project extends **alx_travel_app** by adding:
+
+- Database models for Listings, Bookings, and Reviews.
+- Django REST Framework serializers for API representation.
+- A management command to seed the database with sample listings.
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone Repository**
+
+```bash
+git clone https://github.com/<your-username>/alx_travel_app_0x00.git
+cd alx_travel_app_0x00/alx_travel_app
+```
