@@ -47,6 +47,6 @@ This project extends **alx_travel_app** by adding:
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/<your-username>/alx_travel_app_0x00.git
+git clone https://github,com/ufuos/alx_travel_app_0x00.git
 cd alx_travel_app_0x00/alx_travel_app
 ```
